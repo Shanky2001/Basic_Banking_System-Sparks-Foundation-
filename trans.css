@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://images.pexels.com/photos/4968384/pexels-photo-4968384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h2{
+    color: white;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+}
+h4{
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+button{
+    text-shadow: 2px 2px 4px rgb(2, 192, 2);
+}
+a {
+    text-shadow: 2px 2px 4px rgb(2, 192, 2);
+}
